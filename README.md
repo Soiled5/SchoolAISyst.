@@ -1,0 +1,2 @@
+# SchoolAISyst.
+scoolAISyst
